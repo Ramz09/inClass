@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">inClass</string>
+
+    <string-array name="kelas">
+        <item>Kelas 7</item>
+        <item>Kelas 8</item>
+        <item>Kelas 9</item>
+    </string-array>
+</resources>
